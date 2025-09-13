@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "members": [
+    {
+      "id": 2,
+      "name": "mehbbul",
+      "email": "ziaullhaq11@gmail.com",
+      "profession": "software developer"
+    },
+    {
+      "name": "Shaik",
+      "email": "shaik@email.com",
+      "profession": "Trainer",
+      "id": 3
+    },
+    {
+      "name": "Shaik",
+      "email": "shaik@email.com",
+      "profession": "Trainer",
+      "id": "23424"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
